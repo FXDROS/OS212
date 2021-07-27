@@ -10,3 +10,4 @@ ZCZC W01 45 L12 Assignment #02: Installing and exporting Debian Guest from scrat
 ZCZC W01 45 L14 Assignment #04: Dress up virtual guess
 ZCZC W01 15 L15 Assignment #05: Setup SSH Key for Git
 ZCZC W01 5 L17 Assignment #07: Update mylog.txt
+ZCZC W01 10 L03 Github related: fix global user email configuration
