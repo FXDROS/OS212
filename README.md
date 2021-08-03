@@ -1,4 +1,3 @@
-# OS212
 ## Operating Systems 2021-2 (Semester Gasal 2020/2021)
 
 Welcome to My Github Page
