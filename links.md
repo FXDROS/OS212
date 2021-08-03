@@ -2,6 +2,7 @@
 permalink: /links/
 ---
 
+[Github Page](https://FXDROS.github.io/os212/)|[Links](https://FXDROS.github.io/os212/links/) | [Github](https://github.com/FXDROS/os212) | [My Log](https://FXDROS.github.io/os212/TXT/mylog.txt)
 
 # LINKS
 
