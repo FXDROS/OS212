@@ -12,11 +12,7 @@ permalink: /KernelError/
 
 ## 1. Open Security & Privacy System Preferences
 
-### Click on the Apple logo on top left of your screen, or simply press &#8984; + `space` and type `Security & Privacy`
-
-![](./public/19.png) <br>
-
-![](./public/20.png) <br>
+### Simply press &#8984; + `space` and type `Security & Privacy` <br><br>
 
 ![](./public/18.png) <br><br>
 
