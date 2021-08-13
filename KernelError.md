@@ -4,7 +4,7 @@ permalink: /KernelError/
 
 # Kernel Driver Error While Running VirtualBox
 
-When you are trying to run your Guest in VirtualBox, you probably will see this error that caused by incomplete setup of the Kernel Driver.<br><br>
+When you are trying to run your Debian Guest in VirtualBox, you probably will see this error that caused by incomplete setup of the Kernel Driver.<br><br>
 
 ![](./public/17.png)
 
@@ -32,6 +32,6 @@ Click on the Apple logo on top left of your screen, or simply press &#8984; + `s
 
 ![](./public/13.png) <br><br>
 
-### 4. Rerun GuestOS
+### 4. Rerun Debian Guest
 
 ![](./public/21.png) <br><br>
