@@ -28,11 +28,11 @@
 
 ![help](./public/8.png) <br><br>
 
-## 8. Open System Preferences
+## 8. Open Security Preferences
 
 ![help](./public/9.png) <br><br>
 
-## 9. Click on allow button at bottom right
+## 9. Click on **Allow** button at bottom right
 
 ![help](./public/10.png) <br><br>
 
