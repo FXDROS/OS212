@@ -12,4 +12,5 @@ ZCZC W01 15 L15 Assignment #05: Setup SSH Key for Git
 ZCZC W01 5 L17 Assignment #07: Update mylog.txt
 ZCZC W01 10 L03 Github related: fix global user email configuration
 ZCZC W01 15 L16 Assignment #06: Create links.md
-
+ZCZC W01 60 L31 VirtualBox: Create markdown file about installation of VirtualBox in MacOS
+ZCZC W01 15 L07 Demo Related: Unzip TARBALL file directed to FXDROS
