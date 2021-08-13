@@ -1,3 +1,7 @@
+---
+permalink: /VirtualBoxMacOS/
+---
+
 # Virtual Box On MacOS
 
 ## 1. [Updating VirtualBox](https://FXDROS.github.io/os212/UpdateVirtualBox/)
